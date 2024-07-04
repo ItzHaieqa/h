@@ -18,8 +18,5 @@ console.log(newperson);
 let jsonstring = `{
 "firstname": "haieqa",
 "lastname": "jone"
-}`;
-
-let notJSONE = "hello!";
-let newobj = JSON.parse(notJSONE);
+}`
 
